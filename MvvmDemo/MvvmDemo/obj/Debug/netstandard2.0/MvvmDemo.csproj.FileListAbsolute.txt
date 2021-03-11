@@ -1,0 +1,32 @@
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.csprojAssemblyReference.cache
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\Views\PlaylistDetailPage.xaml.g.cs
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\Views\PlaylistPage.xaml.g.cs
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.AssemblyInfoInputs.cache
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.AssemblyInfo.cs
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.csproj.CoreCompileInputs.cache
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.deps.json
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.dll
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\ref\MvvmDemo.dll
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.pdb
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.dll
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\ref\MvvmDemo.dll
+C:\Users\84398\source\repos\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.pdb
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.deps.json
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.dll
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\ref\MvvmDemo.dll
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\bin\Debug\netstandard2.0\MvvmDemo.pdb
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.csprojAssemblyReference.cache
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\Views\PlaylistDetailPage.xaml.g.cs
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\Views\PlaylistPage.xaml.g.cs
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.AssemblyInfoInputs.cache
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.AssemblyInfo.cs
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.csproj.CoreCompileInputs.cache
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\XamlC.stamp
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.dll
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\ref\MvvmDemo.dll
+G:\FILE TRƯƠNG TRÌNH CÁC NGÔN NGỮ\XAMARIN\MvvmDemo\MvvmDemo\obj\Debug\netstandard2.0\MvvmDemo.pdb
